@@ -9,12 +9,12 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushPalit&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=ayushpalitt&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushPalit&row=1&theme=gruvbox&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushpalitt&row=1&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
 ---
