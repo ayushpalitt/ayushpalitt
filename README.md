@@ -1,85 +1,89 @@
-<!-- Typing Animation -->
+<!-- Typing Animation Headers -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=007ACC&center=true&vCenter=true&width=500&lines=Hi+I'm+Ayush+Palit;Full+Stack+Developer;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Ayush+Palit!;" />
 </h1>
 
-<!-- Visitor Badge -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Full+Stack+Developer;Crafting+Web+Apps+With+Modern+Tech;Building+Clean+%26+Beautiful+Interfaces;" />
+</h1>
+
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushPalit&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AyushPalit&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+<!-- Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushPalit&row=1&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-I’m a passionate **Full Stack Developer** who loves crafting scalable systems, smooth user experiences, and visually clean interfaces.  
-I enjoy blending great engineering with thoughtful design—and learning something new every day! ✨
+🌟 Full Stack Developer passionate about designing intuitive user experiences and building scalable, modern web applications.  
+💡 I love combining **clean architecture**, **elegant UI**, **strong backend logic**, and **modern engineering practices**.  
+🔥 Currently exploring **Generative AI**, **System Design**, and **High-Performance Web Apps**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect with me  
+<p align="center">
+<a href="https://linkedin.com/in/ayush-palit-928203233" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="mailto:palitayush1234@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
 
-### **💻 Languages**
-- HTML, CSS, JavaScript  
-- Python  
-- Java  
-- SQL  
+---
 
-### **🧩 Frameworks & Tools**
-- React.js, Node.js, Express  
-- Tailwind CSS, Bootstrap, jQuery  
-- Git, WordPress  
-- Figma, Photoshop, Illustrator  
-
-### **🗄️ Databases & Platforms**
-- MongoDB, MySQL, PostgreSQL  
-- Netlify, Vercel  
-- SAP S/4 HANA  
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,git,figma,photoshop,java,python,mongodb,mysql,postgres" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 **Smart Expense Splitter**
-A powerful full-stack expense-sharing system built using **React.js + Node.js + Express + MongoDB**.  
-✨ Real-time calculations | 🔐 JWT Auth | 📄 PDF bill exports  
-
----
+- Full-stack expense-sharing app  
+- Built with **React, Node, Express, MongoDB**  
+- JWT Auth • RBAC • PDF Export • Real-time calculations  
 
 ### 🔹 **AI-Powered Interview Prep Platform**
-An interactive AI-driven system for real-time interview practice using **Next.js, WebSockets, and OpenAI API**.  
-⚡ Live feedback | 📊 Analytics dashboard | 🧠 AI evaluation  
-
----
+- AI-driven interview practice system  
+- Built using **Next.js, WebSockets, OpenAI API**  
+- Real-time Q&A • Analytics dashboard • PostgreSQL storage  
 
 ### 🔹 **Gamified Learning Dashboard**
-Engaging dashboard built with **React.js + Tailwind + Chart.js**.  
-🏅 Badges | 📈 Performance analytics | 🌐 Accessible UI  
+- Interactive learning dashboard  
+- Built with **React + Tailwind + Chart.js**  
+- Badges • Streaks • Quizzes • Accessible UI  
 
 ---
 
-## 🌐 Connect with Me  
-📎 **LinkedIn:** https://linkedin.com/in/ayush-palit-928203233  
-📧 **Email:** palitayush1234@gmail.com  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushPalit&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPalit&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushPalit&show_icons=true&theme=tokyonight" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPalit&layout=compact&theme=tokyonight" height="160px" />
-
-</div>
+## 🔥 GitHub Streaks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AyushPalit&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
-## ✨ A Little More About Me  
-- 🚀 Exploring **Generative AI**, **Full-Stack Engineering**, and **System Design**  
-- 🎨 Love creating modern, aesthetic UIs  
-- 🧠 Constantly improving and experimenting with new tools  
-- 🌱 Believe in learning something valuable every day  
+## ☕ Support  
+<p align="center">
+  <a href="https://buymeacoffee.com/ayush">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" />
+  </a>
+</p>
 
 ---
 
-⭐ **If you liked my work, consider starring my repositories!**  
+## ⚡ Fun Note  
+💭 *“Code is like art — the cleaner it looks, the more powerful it becomes.”*  
