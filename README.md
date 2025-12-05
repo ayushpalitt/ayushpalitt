@@ -1,25 +1,36 @@
-# 👋 Hi, I'm Ayush Palit
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=007ACC&center=true&vCenter=true&width=500&lines=Hi+I'm+Ayush+Palit;Full+Stack+Developer;Welcome+to+my+GitHub!" />
+</h1>
 
-### 💼 Full Stack Developer  
-I build scalable web applications, intuitive user interfaces, and end-to-end systems using modern JavaScript and Python-based technologies. Passionate about design, clean architecture, accessibility, and creating meaningful digital experiences.
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushPalit&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me  
+I’m a passionate **Full Stack Developer** who loves crafting scalable systems, smooth user experiences, and visually clean interfaces.  
+I enjoy blending great engineering with thoughtful design—and learning something new every day! ✨
 
-### **Languages**
+---
+
+## 🛠️ Tech Stack
+
+### **💻 Languages**
 - HTML, CSS, JavaScript  
 - Python  
 - Java  
 - SQL  
 
-### **Frameworks & Tools**
+### **🧩 Frameworks & Tools**
 - React.js, Node.js, Express  
-- Bootstrap, jQuery, Tailwind CSS  
+- Tailwind CSS, Bootstrap, jQuery  
 - Git, WordPress  
 - Figma, Photoshop, Illustrator  
 
-### **Databases & Platforms**
+### **🗄️ Databases & Platforms**
 - MongoDB, MySQL, PostgreSQL  
 - Netlify, Vercel  
 - SAP S/4 HANA  
@@ -28,45 +39,47 @@ I build scalable web applications, intuitive user interfaces, and end-to-end sys
 
 ## 📌 Featured Projects
 
-### **🔹 Smart Expense Splitter**
-A full-stack expense-sharing system built with **React.js, Node.js, Express, and MongoDB**.  
-- Real-time calculations and automated email reminders  
-- Secure authentication using JWT + RBAC  
-- PDF bill export functionality  
+### 🔹 **Smart Expense Splitter**
+A powerful full-stack expense-sharing system built using **React.js + Node.js + Express + MongoDB**.  
+✨ Real-time calculations | 🔐 JWT Auth | 📄 PDF bill exports  
 
 ---
 
-### **🔹 AI-Powered Interview Prep Platform**
-AI-driven interview practice system built with **Next.js, Node.js, WebSockets**, and **OpenAI API**.  
-- Real-time Q&A flow with instant AI feedback  
-- Progress tracking & analytics dashboards  
-- PostgreSQL-backed structured session history storage  
+### 🔹 **AI-Powered Interview Prep Platform**
+An interactive AI-driven system for real-time interview practice using **Next.js, WebSockets, and OpenAI API**.  
+⚡ Live feedback | 📊 Analytics dashboard | 🧠 AI evaluation  
 
 ---
 
-### **🔹 Gamified Learning Dashboard**
-Interactive student engagement dashboard using **React.js, Tailwind CSS, Chart.js**.  
-- Badges, quizzes, streaks, and gamified elements  
-- Visual performance analytics  
-- WCAG accessibility-compliant responsive UI  
+### 🔹 **Gamified Learning Dashboard**
+Engaging dashboard built with **React.js + Tailwind + Chart.js**.  
+🏅 Badges | 📈 Performance analytics | 🌐 Accessible UI  
 
 ---
 
-## 🌐 Connect with Me
-- **LinkedIn:** https://linkedin.com/in/ayush-palit-928203233  
-- **Email:** palitayush1234@gmail.com  
+## 🌐 Connect with Me  
+📎 **LinkedIn:** https://linkedin.com/in/ayush-palit-928203233  
+📧 **Email:** palitayush1234@gmail.com  
 
 ---
 
-## 📊 GitHub Stats  
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushPalit&show_icons=true&theme=default)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPalit&layout=compact&theme=default)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyushPalit&show_icons=true&theme=tokyonight" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPalit&layout=compact&theme=tokyonight" height="160px" />
+
+</div>
+
+---
+
+## ✨ A Little More About Me  
+- 🚀 Exploring **Generative AI**, **Full-Stack Engineering**, and **System Design**  
+- 🎨 Love creating modern, aesthetic UIs  
+- 🧠 Constantly improving and experimenting with new tools  
+- 🌱 Believe in learning something valuable every day  
 
 ---
 
-## ✨ About Me  
-Driven by curiosity and creativity, I love building products that blend strong engineering with great design.  
-Currently exploring **Generative AI**, **Full-Stack Development**, and **Scalable System Design**.
-
----
+⭐ **If you liked my work, consider starring my repositories!**  
