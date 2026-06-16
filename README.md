@@ -1,7 +1,5 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Banner"/>
-  <br/>
-  <h1>Welcome to Ayush's Github &lt;/&gt;</h1>
 </div>
 
 <p align="center">
