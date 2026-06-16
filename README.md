@@ -1,103 +1,67 @@
-<h1 align="center">Hi there, I'm Ayush Palit 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Data+%26+Marketing+Analyst;Full-Stack+Developer;Transforming+data+into+insights" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="banner.png" width="100%" alt="Banner"/>
+  <br/>
+  <h1>Welcome to Ayush's Github &lt;/&gt;</h1>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-palit-928203233">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/AyushPalit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/ayushpalitt">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:palitayush1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+<br/>
+
+<h2 align="center">👨‍🚀 About me</h2>
+
+<div align="left">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Coding Astronaut"/>
+  
+  Hello There! I'm **Ayush Palit**, a Data & Marketing Analyst and Full-Stack Developer. I enjoy leveraging data and modern tech to build smarter, scalable solutions. Currently, I'm focusing on Generative AI, System Design, and High-Performance Analytics Platforms to transform raw data into actionable insights and intelligent dashboards.
+  
+  <br/><br/>
+  
+  🎓 **Focusing on:** Data-Driven Decisions, Marketing Analytics, Web Engineering <br/>
+  💼 **Projects:** [BillBee](https://billbee.vercel.app/) & [Nexus Analytics](https://nexus-analytics.vercel.app/) <br/>
+  💡 **Philosophy:** "Code is like art — the cleaner it looks, the more powerful it becomes."
+</div>
+
+<br/>
+
+<h2 align="center">⚙️ Technologies</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushpalitt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GOOGLE_ANALYTICS-000000?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
+<br/>
 
-## 🧠 About Me
-
-```python
-class AyushPalit:
-    def __init__(self):
-        self.role        = "Data & Marketing Analyst | Full-Stack Developer"
-        self.focus       = ["Marketing Analytics", "Data-Driven Strategy", "Web Engineering"]
-        self.philosophy  = "Leveraging data and modern tech to build smarter, scalable solutions."
-
-    def current_work(self):
-        return "Transforming raw data into actionable insights and intelligent dashboards."
-```
-
-- 📊 **Data and Marketing Analyst** with a strong foundation in **full-stack web development**.
-- 💡 Passionate about combining **clean architecture**, **data visualization**, and **marketing strategy** to drive business growth.
-- 🌱 Currently focusing on **Generative AI**, **System Design**, and **High-Performance Analytics Platforms**.
-- 📫 Reach me at **palitayush1234@gmail.com**
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🐝 **[BillBee](https://billbee.vercel.app/)** | A comprehensive financial SaaS platform featuring an AI-powered receipt scanner, real-time analytics (GA4 integrated), and an interactive "Cyber-Hive" dashboard. | `React` `Node.js` `MongoDB` `AI/ML` `Vercel` |
-| 📊 **[Nexus Analytics](https://nexus-analytics.vercel.app/)** | An AI Marketing Command Center designed to deliver real-time dashboard analytics. Built with a robust full-stack architecture and styled with modern design patterns. | `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `Clerk` |
-
----
-
-## 🛠️ Tech Stack
-
-#### Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-#### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📈 Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushPalit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPalit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushpalitt&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ayushpalitt&hide_border=true&background=0A0A0A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC" height="165" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyushPalit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
----
-
-## ☕ Support  
-<p align="center">
-  <a href="https://buymeacoffee.com/ayush">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" />
-  </a>
-</p>
-
----
+<h2 align="center">📊 Contribution Graph</h2>
 
 <p align="center">
-  <i>“Code is like art — the cleaner it looks, the more powerful it becomes.”</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpalitt&bg_color=0A0A0A&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
